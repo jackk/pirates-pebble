@@ -1,0 +1,42 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "JackK",
+    "longName": "Pirates Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pirates-p-2.png",
+                "name": "IMAGE_PIRATES",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/Abbey-Medium-Lefty.ttf",
+                "name": "FONT_LEFTY_48",
+                "trackingAdjust": 3,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Pirates",
+    "uuid": "75f7e086-b151-41d1-848f-047319a6bbac",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
